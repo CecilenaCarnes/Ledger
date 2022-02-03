@@ -1,0 +1,1 @@
+This consoleapp will be used to record and track expenses for the purpose of filing income taxes.
